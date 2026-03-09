@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student | ASP.NET Core Developer | Cloud, AI, and Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  I enjoy building modern web applications, RESTful APIs, and practical software solutions while exploring cloud technologies, AI, networking, and secure systems.
+  I enjoy building modern web applications, RESTful APIs, and practical software solutions while exploring cloud technologies, machine learning, AI, networking, and secure systems.
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 💻 Working with **ASP.NET Core, MVC, Razor Pages, and Blazor**
 - 🔌 Building **RESTful APIs** and backend-driven applications
 - ☁️ Interested in **Azure, AWS, and cloud-based development**
-- 🤖 Curious about **Artificial Intelligence** and smart software solutions
+- 🤖 Interested in **Artificial Intelligence** and **Machine Learning**
 - 🐧 Comfortable with **Ubuntu, Linux environments, and networking**
 - 🔐 Exploring **cybersecurity and ethical hacking**
 - 📚 Always learning through projects and hands-on practice
@@ -24,7 +24,7 @@
 
 ### Languages & Web
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,js,python,dotnet,html,css,bootstrap" />
 </p>
 
 ### Frameworks & Development
@@ -48,6 +48,7 @@
 
 ### Interests
 - Artificial Intelligence
+- Machine Learning
 - Cloud Computing
 - Networking
 - Ethical Hacking
@@ -59,7 +60,7 @@
 
 - Advanced ASP.NET Core development
 - Better backend architecture
-- AI concepts and practical applications
+- Machine Learning and AI concepts
 - Cloud deployment workflows
 - Secure API design
 
@@ -80,16 +81,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
